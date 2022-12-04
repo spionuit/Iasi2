@@ -1,0 +1,32 @@
+
+h1 {
+    text-align: center;
+    color: rgb(223, 16, 16);
+    font-style:normal;
+    font-size: 50px;
+    text-decoration: underline;
+
+}
+p {
+    color: black;
+    text-align: left;
+}
+
+ul {
+    color: red;
+    
+}
+
+a {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    
+  
+}
+li {
+    display: inline;
+}
+
+
+    
